@@ -1,0 +1,19 @@
+.maincontact {
+    display: flex;
+    justify-content: center;
+}
+
+.contactsection {
+    text-align: center;
+    width: 50%;
+}
+
+.contactustext {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
